@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">conversor</string>
+    <string name="app_name">Conversor</string>
+    <array name="currencies_array">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+            <!-- Agrega más monedas según sea necesario -->
+    </array>
+</resources>
